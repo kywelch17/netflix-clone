@@ -9,10 +9,18 @@
     },
     {
         "id": 2,
-        "title": "Download your programmes to watch on the go.",
-        "subTitle": "Save your data and watch all your favourites offline.",
+        "title": "Cannot download movies or anything on here.",
+        "subTitle": "We do not host movies or tv shows, so you cannot download anything onto your device.",
+        "image": "/images/phone.jpg",
         "alt": "Watch on mobile",
-        "image": "/images/2639.png",
         "direction": "row-reverse"
+    },
+    {
+        "id": 3,
+        "title": "Do not plan on watching anything on this app.",
+        "subTitle": "Since this is a Netflix clone, you cannot watch your favorite movies on this app.",
+        "image": "/images/red-x.jpg",
+        "alt": "Do not enjoy",
+        "direction": "row"
     }
 ]
