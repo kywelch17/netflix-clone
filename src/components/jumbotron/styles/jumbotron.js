@@ -14,9 +14,7 @@ export const Inner = styled.div`
     }
 `;
 
-export const Container = styled.div`
-
-`;
+export const Container = styled.div``;
 
 export const Pane = styled.div`
     width: 50%;
@@ -50,7 +48,8 @@ export const SubTitle = styled.h2`
 
 export const Item = styled.div`
     display: flex;
-    margin-bottom: 8px solid white;
+    margin-bottom: 8px;
+    border-bottom: 8px solid grey;
     padding: 50px;
     color: white;
     overflow: hidden;
@@ -58,6 +57,7 @@ export const Item = styled.div`
 
 export const Image = styled.img`
     max-width: 100%;
-    height: 120px;
-    margin: auto;
+    height: 337px;
+    width: 437px;
+    justify-content: center;
 `;
