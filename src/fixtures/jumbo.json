@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "You will not enjoy this.",
+        "subTitle": "You cannot enjoy this app anywhere, so do not plan on it.",
+        "image": "images/2639.png",
+        "alt": "No enjoyment",
+        "direction": "row"
+    },
+    {
+        "id": 2,
+        "title": "Download your programmes to watch on the go.",
+        "subTitle": "Save your data and watch all your favourites offline.",
+        "alt": "Watch on mobile",
+        "image": "/images/2639.png",
+        "direction": "row-reverse"
+    }
+]
